@@ -1,7 +1,6 @@
 
 # Apple Vision Pro Website Clone
 
-![Apple Vision Pro](https://example.com/path/to/your/screenshot.png)
 
 Welcome to the Apple Vision Pro Website Clone! This project aims to replicate the design and functionality of the original Apple Vision Pro website using modern web technologies.
 
@@ -33,19 +32,6 @@ Welcome to the Apple Vision Pro Website Clone! This project aims to replicate th
 3. **Dependencies**:
    - Ensure you have an internet connection to load external dependencies included via CDN.
 
-## 📸 Screenshots
-
-### Homepage
-
-![Homepage](https://example.com/path/to/homepage-screenshot.png)
-
-### Feature Section
-
-![Feature Section](https://example.com/path/to/feature-section-screenshot.png)
-
-### Interactive Elements
-
-![Interactive Elements](https://example.com/path/to/interactive-elements-screenshot.png)
 
 ## 🖥️ Usage
 
